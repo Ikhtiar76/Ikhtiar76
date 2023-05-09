@@ -1,6 +1,6 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
-<h1 align="center">Hi 👋, I'm Ikhtiar</h1>
+<h1 align="center">Hi 👋, I'm ikhtiar</h1>
 <h3 align="center">A passionate flutter developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikhtiar76&label=Profile%20views&color=0e75b6&style=flat" alt="ikhtiar76" /> </p>
